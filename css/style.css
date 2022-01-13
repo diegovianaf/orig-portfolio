@@ -132,7 +132,7 @@ img {
   .introduction {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
-    gap: 6.5rem;
+    gap: 5rem;
   }
   .introduction h1 {
     font-size: 5rem;
@@ -151,9 +151,11 @@ img {
   .introduction {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
+    padding: 2rem;
   }
   .introduction img {
     width: 200px;
+    margin: 0 auto;
   }
 }
 

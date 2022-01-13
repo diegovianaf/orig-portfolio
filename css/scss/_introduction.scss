@@ -29,7 +29,7 @@
 @media (max-width: 800px) {
   .introduction {
     grid-template-columns: 1fr 1fr;
-    gap: 6.5rem;
+    gap: 5rem;
 
     h1 {
       font-size: 5rem;
@@ -50,9 +50,11 @@
 @media (max-width: 450px) {
   .introduction {
     grid-template-columns: 1fr;
+    padding: 2rem;
 
     img {
       width: 200px;
+      margin: 0 auto;
     }
   }
 }
