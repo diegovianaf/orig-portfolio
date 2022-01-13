@@ -394,11 +394,11 @@ img {
 }
 
 .education .container .education-extra .courses h3::before {
-  background: url("/img/courses.svg");
+  background: url(/img/courses.svg);
 }
 
 .education .container .education-extra .languages h3::before {
-  background: url("/img/languages.svg");
+  background: url(/img/languages.svg);
 }
 
 .education .container .education-extra li {
