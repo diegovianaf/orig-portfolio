@@ -4,4 +4,4 @@ This project was developed during the **HTML and CSS Course** at [Origamid](http
 
 ## 🔻 Technologies
 - HTML
-- Sass
+- CSS / Sass
