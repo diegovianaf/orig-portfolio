@@ -11,7 +11,7 @@
       display: block;
       width: 130px;
       height: 100px;
-      background: url("/img/detail.svg") no-repeat center;
+      background: url("../img/detail.svg") no-repeat center;
       position: absolute;
       bottom: -50px;
       left: 20px;
@@ -105,11 +105,11 @@
       }
 
       .courses h3::before {
-        background: url(/img/courses.svg);
+        background: url(../img/courses.svg);
       }
 
       .languages h3::before {
-        background: url(/img/languages.svg);
+        background: url(../img/languages.svg);
       }
 
       li {
