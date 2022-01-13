@@ -5,3 +5,6 @@ This project was developed during the **HTML and CSS Course** at [Origamid](http
 ## 🔻 Technologies
 - HTML
 - CSS / Sass
+
+## © License
+[MIT](https://github.com/diegovianaf/orig-portfolio/blob/main/LICENSE)
