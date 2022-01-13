@@ -32,7 +32,8 @@
     gap: 5rem;
 
     h1 {
-      font-size: 5rem;
+      font-size: 4rem;
+      margin-bottom: 1rem;
 
       &::before {
         width: 3rem;
@@ -50,7 +51,16 @@
 @media (max-width: 450px) {
   .introduction {
     grid-template-columns: 1fr;
+    gap: 2rem;
     padding: 2rem;
+
+    h1 {
+      font-size: 3.5rem;
+    }
+
+    br {
+      display: none;
+    }
 
     img {
       width: 200px;
