@@ -1,0 +1,45 @@
+.footer {
+  background: #000;
+  color: white;
+
+  .container {
+    padding: 12rem 2rem 6rem 2rem;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+
+    .footer-text {
+      font-size: 2.4rem;
+      line-height: 1.33;
+      color: #ccc;
+    }
+
+    .footer-contact li, a {
+      font-size: 3rem;
+      font-weight: bold;
+      line-height: 1.1;
+      color: #fff;
+      margin-bottom: 3rem;
+
+      a {
+        text-decoration: underline;
+      }
+    }
+
+    .footer-copy {
+      font-size: 1.8rem;
+      color: #8f8f8f;
+      grid-column: 1 / -1;
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .footer .container {
+    grid-template-columns: 1fr;
+    gap: 4rem;
+
+    .footer-contact li {
+      font-size: 2.4rem;
+    }
+  }
+}
