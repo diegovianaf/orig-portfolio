@@ -1,10 +1,24 @@
-# 🐺 Wolf's Portfolio
+# Wolf's Portfolio
  
-This project was developed during the **HTML and CSS Course** at [Origamid](https://www.origamid.com/curso/html-e-css-para-iniciantes/).
+This project was developed during the course of HTML and CSS at [Origamid](https://www.origamid.com/curso/html-e-css-para-iniciantes/).
 
-## 🔻 Technologies
+## About
+
+A portfolio site with home, experience, education, and contact sections.
+
+## Technologies
+
 - HTML
-- CSS / Sass
+- [Sass](https://sass-lang.com/)
 
-## © License
+## Layout
+
+![image](https://user-images.githubusercontent.com/92064022/167315307-c53105fa-fa06-4af0-a6e3-e67ab0503e24.png)
+
+## License
+
 [MIT](https://github.com/diegovianaf/orig-portfolio/blob/main/LICENSE)
+
+## Author
+
+[Diego Viana](https://github.com/diegovianaf)
